@@ -60,6 +60,7 @@ h1{
 }
 .facebook{
     height: 135px;
+    width: 108px;
     left: -8px;
     top: -42px;
     background-image: url("/src/components/assets/Facebook-f_Logo-Blue-Logo.wine.svg");
